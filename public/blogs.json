@@ -1,0 +1,49 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/MZ5cfYn/1.jpg",
+      "title": "Book 1",
+      "author_img": "",
+      "author": "https://i.ibb.co/YLfySB3/boy1.png",
+      "posted_date": "2023-09-16",
+      "reading_time": 60,
+      "hashtags": ["fiction", "fantasy"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/b7XgP3Q/2.png",
+      "title": "Book 2",
+      "author_img": "https://i.ibb.co/qj9Tx34/girl1.jpg",
+      "author": "Author 2",
+      "posted_date": "2023-09-15",
+      "reading_time": 75,
+      "hashtags": ["mystery", "thriller"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/TLvdJLt/3.png",
+      "title": "Book 3",
+      "author_img": "  https://i.ibb.co/dPQF7jq/boy2.jpg",
+      "author": "Author 3",
+      "posted_date": "2023-09-14",
+      "reading_time": 90,
+      "hashtags": ["romance", "drama"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/jJMQX8Y/4.jpg",
+      "title": "Book 4",
+      "author_img": "https://i.ibb.co/VvFsmxs/girl2.jpg",
+      "author": "Author 4",
+      "posted_date": "2023-09-13",
+      "reading_time": 55,
+      "hashtags": ["history", "non-fiction"]
+    }
+  ]
+
+
+
+
+
+
+
